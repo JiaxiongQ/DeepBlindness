@@ -1,9 +1,6 @@
 # DeepBlindness
 This repository contains the code (in PyTorch) for "[DeepBlindness: Fast Blindness Map Estimation and Blindness Type Classification for Outdoor Scene from Single Color Image](https://arxiv.org/pdf/1911.00652.pdf)" paper (Arxiv)
 
-## Note
-The code will be released soon...
-
 ## Citation 
 If you use our code or method in your work, please cite the following:
 ```
